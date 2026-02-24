@@ -1,8 +1,15 @@
-# Hi, I'm vice-president 👋
+# Vice — Product Manager at Harbor Works
 
-I build practical machine learning projects with an emphasis on clean baselines and reproducibility.
+Professional Product Manager focused on delivery, ML productization, and engineering coordination.
 
-## Featured PyTorch Projects
+Currently working under the guidance of **Sr ML Engineer Aamir**.
+
+## Highlighted Projects
 - [pytorch-binary-classification](https://github.com/vice-president/pytorch-binary-classification)
 - [pytorch-multiclass-classification](https://github.com/vice-president/pytorch-multiclass-classification)
 - [pytorch-regression-baseline](https://github.com/vice-president/pytorch-regression-baseline)
+
+## Focus Areas
+- Product execution for ML systems
+- Reproducible baselines for students and teams
+- Clear documentation and maintainable workflows
